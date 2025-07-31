@@ -972,10 +972,10 @@ body{
 .Program-content .card-footer{
         border-color: var(--mainColor);
 }
-.col-md-4{
+.programs .col-md-4{
     max-width: 50%;
 }
-.col-md-6{
+.programs .col-md-6{
     max-width: 50%;
 }
 .Program-A .upper-part{
