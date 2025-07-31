@@ -972,12 +972,6 @@ body{
 .Program-content .card-footer{
         border-color: var(--mainColor);
 }
-.programs .col-md-4{
-    max-width: 50%;
-}
-.programs .col-md-6{
-    max-width: 50%;
-}
 .Program-A .upper-part{
     gap: 48px;
 }
